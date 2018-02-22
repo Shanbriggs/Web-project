@@ -1,0 +1,37 @@
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: purple;
+  font-size: 100px;
+  text-decoration: underline;
+
+
+}
+
+#topshop-link {
+
+  color: silver
+}
+
+#goop-link {
+
+  color: red
+}
+
+#second {
+
+  color: yellow
+}
+
+a {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: orange;
+  font-size: 50px
+}
+
+p {
+font-family: 'Open Sans Condensed', sans-serif;
+  color: black;
+  font-size:100px;
+  font-weight: bold;
+
+}
